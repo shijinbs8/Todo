@@ -1,0 +1,36 @@
+.banner{
+background-color:lime;
+width: 100%;
+height:100px;
+margin-bottom:50px;
+
+}
+
+h1 {
+  text-shadow: 2px 2px yellow;
+  font-family:Times New Roman;
+}
+
+.text{
+<style>
+            .blink {
+                animation: blinker 1.5s linear infinite;
+                color: red;
+                font-family: sans-serif;
+            }
+            @keyframes blinker {
+                50% {
+                    opacity: 0;
+                }
+            }
+        </style>
+
+
+}
+.banner-text{
+top:50%;
+left:60%;
+position:absolute;
+font-family:'Poppins', sans-serif;
+
+}
